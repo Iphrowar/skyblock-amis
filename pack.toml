@@ -1,0 +1,13 @@
+name = "Skyblock des amis"
+author = "Iphrowar"
+version = "0.1.0+2f4579a"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "793f06d119382face5d81cc90ca22e4a1988a7bbb9b843e1ad7ee0f00770a2f7"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.3"

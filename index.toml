@@ -1,0 +1,10 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "79de372a05dde6ee4f23ced936835dbd9d43b64ba61ae1990cb0e59dce460e6a"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-core.jar"
+hash = "95ddee3c9911c25bbc234a99196e347354ef9576b0145e826330357c0edec600"
